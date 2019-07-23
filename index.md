@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to RESys Lab! Site is under construction.
+<!-- ## Welcome to RESys Lab! Site is under construction. -->
 
 ### Team
 
