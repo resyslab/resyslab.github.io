@@ -137,7 +137,3 @@ description: Publications
 * M. Z. Gören, S. Gören, A. Karahoca, F.Y. Onat. Terapötik İlaç Düzeyi İzlemi Verilerine Veri Madenciliği Tekniklerinin Uygulanması İle Siklosporin A Kan Düzeylerinin Önceden Tahmini. Türk Farmakoloji Derneği 19. Ulusal Farmakoloji Kongresi. 341-342. 2007.
 
 * S. Gören, S. Balkır, G. Dündar, E. Anarım. Novel VLSI architectures for morphological filtering. Sinyal İşleme ve Uygulamaları Kurultayı (SIU), A: Görüntü İşleme. 187-192. 1995.
-
-_yay_
-
-[back](./)
