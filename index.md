@@ -4,8 +4,7 @@ layout: default
 
 <!-- ## Welcome to RESys Lab! Site is under construction. -->
 
-
-### Team
+### Team
 
 * Prof. Sezer Gören
 * Prof. Hasan Fatih Uğurdağ
