@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to RESys Lab! Site is under construction.
 
-## Team
+### Team
 
 * Prof. Sezer Gören
 * Prof. Hasan Fatih Uğurdağ
@@ -12,9 +12,9 @@ layout: default
 * Yılmaz Serhan Gener
 * Tugay Emre Yücedağ
 
-## [Publications](./publications.html)
+### [Publications](./publications.html)
 
-## Projects
+### Projects
 
 * C’den Çok Çekirdekli Mikrodenetleyici Sentezi
 * Sayısal Yonga Çoklu-Darbeli Üretim Testleri İçin Hata Emülasyonu Yönteminin Geliştirilmesi
