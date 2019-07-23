@@ -12,7 +12,7 @@ layout: default
 * Yılmaz Serhan Gener
 * Tugay Emre Yücedağ
 
-[Publications](./publications.html)
+## [Publications](./publications.html)
 
 ## Projects
 
