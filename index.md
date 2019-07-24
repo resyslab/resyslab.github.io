@@ -19,12 +19,12 @@ layout: default
 * Yusuf Türk
 * Doğuhan Gümüşoğlu
 
-### [Publications](./publications.html)
-
 ### Projects
 
 * C’den Çok Çekirdekli Mikrodenetleyici Sentezi
 * Sayısal Yonga Çoklu-Darbeli Üretim Testleri İçin Hata Emülasyonu Yönteminin Geliştirilmesi
+
+### [Publications](./publications.html)
 
 ### Theses & Dissertations
 
