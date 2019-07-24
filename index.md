@@ -7,10 +7,17 @@ layout: default
 ### Team
 
 * Prof. Sezer Gören
-* Prof. Hasan Fatih Uğurdağ
+* Dr. Onur Demir
 * Abdullah Yıldız
 * Yılmaz Serhan Gener
+* Sercan Sarı
+* Yunus Gökçer
 * Tugay Emre Yücedağ
+* Halil Can Kaşkavalcı
+* Cemil Cem Gürsoy
+* Mert Büyükmıhçı
+* Yusuf Türk
+* Doğuhan Gümüşoğlu
 
 ### [Publications](./publications.html)
 
