@@ -21,8 +21,8 @@ layout: default
 
 ### Projects
 
-* C’den Çok Çekirdekli Mikrodenetleyici Sentezi
-* Sayısal Yonga Çoklu-Darbeli Üretim Testleri İçin Hata Emülasyonu Yönteminin Geliştirilmesi
+* C’den Çok Çekirdekli Mikrodenetleyici Sentezi (supported by TÜBİTAK under contract number 117E090)
+* Sayısal Yonga Çoklu-Darbeli Üretim Testleri İçin Hata Emülasyonu Yönteminin Geliştirilmesi (supported by TÜBİTAK under contract number 114E022)
 
 ### [Publications](./publications.html)
 
