@@ -27,3 +27,5 @@ layout: default
 * Sayısal Yonga Çoklu-Darbeli Üretim Testleri İçin Hata Emülasyonu Yönteminin Geliştirilmesi
 
 ### [nEMESysLab is our sister lab](http://www.ugurdag.com/nemesyslab.html)
+
+### [YouTube Channel](https://www.youtube.com/user/RESysLab)
