@@ -38,4 +38,4 @@ layout: default
 
 ### [nEMESysLab is our sister lab](http://www.ugurdag.com/nemesyslab.html)
 
-### [YouTube Channel](https://www.youtube.com/user/RESysLab)
+### [Our Lab's YouTube Channel](https://www.youtube.com/user/RESysLab)
