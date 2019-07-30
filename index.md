@@ -21,8 +21,8 @@ layout: default
 
 ### Projects
 
-* C’den Çok Çekirdekli Mikrodenetleyici Sentezi (supported by TÜBİTAK under contract number 117E090)
-* Sayısal Yonga Çoklu-Darbeli Üretim Testleri İçin Hata Emülasyonu Yönteminin Geliştirilmesi (supported by TÜBİTAK under contract number 114E022)
+* Multi-Core MicroController Synthesis from C (supported by TÜBİTAK under contract number 117E090)
+* Development of the Fault Emulation Method for Digital IC Manufacturing Multi-Cycle Tests (supported by TÜBİTAK under contract number 114E022)
 
 ### [Publications](./publications.html) :point_left:
 
